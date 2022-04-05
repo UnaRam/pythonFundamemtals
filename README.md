@@ -15,3 +15,6 @@ projects in progress will be stored in the **WIP_projects** folder of worksheets
 
 ##datasets
 any datasets used 
+
+
+added the decision tree project to finished projects
