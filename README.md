@@ -18,3 +18,4 @@ any datasets used
 
 
 added the decision tree project to finished projects
+updated the error handling and encoding worksheets and put it correct Worksheets folder
